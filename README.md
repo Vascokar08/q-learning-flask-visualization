@@ -1,6 +1,3 @@
-# q-learning-flask-visualization
-Q-Learning implementation on FrozenLake using Python (Gymnasium) with Flask-based live visualization. Demonstrates states, actions, rewards, epsilon-greedy strategy, and policy learning.
-
 # Reinforcement Learning – FrozenLake (Q-Learning)
 
 This project demonstrates Q-Learning on the FrozenLake environment using Python and Gymnasium. It includes a Flask web app to visualize learning performance and final policy.
